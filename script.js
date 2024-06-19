@@ -19,10 +19,10 @@ meuFormulario.addEventListener("submit", function(event) {
   |Number - Transforma o texto capturado em Numero
   /let segundo_numero_ = Number(document.getElementById("segundo_numero_").value
 
-  Realiza a soma do valor que está na variável "primeiro_numero_" com o valor que está na
+  Realiza resultado do valor que está na variável "primeiro_numero_" com o valor que está na
   variável "segundo_numero_"
-  E a variável "resultado_" recebe o valor da s
-  let resultado_soma = primeiro_numero_ + segundo_numero_;
+  E a variável "resultado_" recebe o valor de 30
+  let resultado_30 = primeiro_numero_ + segundo_numero_;
 
   Aqui vai escrever no input "resultado_" o valor que está armazenado na variável "resultado_"
   conssole.log(ressultado)
